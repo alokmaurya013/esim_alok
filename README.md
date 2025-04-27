@@ -18,7 +18,6 @@ First, clone the repository and install dependencies:
 
 ```bash
 git clone <your-repo-url>
-cd frontend1
 npm install
 ```
 
