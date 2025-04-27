@@ -2,7 +2,7 @@
 
 # Leamigo eSIM Recharge Platform
 
-This is a **Next.js 15** project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a **Next.js 15** project.
 
 The platform allows users to:
 - Enter their **Booking ID** to access their dashboard
