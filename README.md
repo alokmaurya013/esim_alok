@@ -4,7 +4,7 @@
 
 This is a **Next.js 15** project.
 
-The platform allows users to:
+The platform allows users to-
 - Enter their **Booking ID** to access their dashboard
 - View their **current eSIM plan details**
 - **Recharge** their eSIM by selecting from available plans
